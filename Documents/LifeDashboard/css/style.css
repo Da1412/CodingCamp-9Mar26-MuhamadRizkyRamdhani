@@ -3,13 +3,13 @@
 
 body {
     font-family: 'Segoe UI', sans-serif;
-    background: linear-gradient(135deg, #56ab2f, #a8e063); /* hijau segar */
+    background-color: #1e1e2f; /* dark bluish */
     min-height: 100vh;
     display: flex;
     justify-content: center;
     align-items: flex-start;
     padding: 30px;
-    color: #333;
+    color: #fff;
 }
 
 .container { width:90%; max-width:1000px; }

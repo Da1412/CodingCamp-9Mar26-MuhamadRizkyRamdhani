@@ -2,13 +2,14 @@
 * { margin:0; padding:0; box-sizing:border-box; font-family:'Segoe UI', sans-serif; }
 
 body {
-    background: linear-gradient(135deg, #667eea, #764ba2);
+    font-family: 'Segoe UI', sans-serif;
+    background: linear-gradient(135deg, #56ab2f, #a8e063); /* hijau segar */
     min-height: 100vh;
-    display:flex;
-    justify-content:center;
-    align-items:flex-start;
-    padding:30px;
-    color:#333;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 30px;
+    color: #333;
 }
 
 .container { width:90%; max-width:1000px; }
